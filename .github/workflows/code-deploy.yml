@@ -27,7 +27,13 @@ jobs:
       
 
     - name: Installing my packages
-      run: npm ci
+      run: |
+          if [ -e yarn.lock ]; then
+          yarn install --frozen-lockfile
+          elif [ -e package-lock.json ]; then
+          npm ci
+          else
+          npm i
 
     - name: Build my App  
       run: npm run build
