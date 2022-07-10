@@ -2,8 +2,8 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
-  basePath: "/",
-  assetPrefix: "/"
+  // basePath: "/",
+  // assetPrefix: "/"
 }
 
 module.exports = nextConfig
