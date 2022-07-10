@@ -2,8 +2,8 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
-  basePath: "/cam-ninh-web",
-  assetPrefix: "/cam-ninh-web"
+  basePath: "/",
+  assetPrefix: "/"
 }
 
 module.exports = nextConfig
