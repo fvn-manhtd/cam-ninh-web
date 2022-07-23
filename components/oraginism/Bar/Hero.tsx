@@ -48,7 +48,7 @@ export const Hero = () => {
               </li>
               <li>
                 <a
-                  href="mailto:info@nhat-tam.vn"
+                  href="mailto:info@camninh.vn"
                   target="_blank"
                   className="text-base font-medium text-orange-500 border border-orange-500 rounded-lg py-4 px-6 sm:px-10 flex items-center hover:opacity-70 transition duration-300 ease-in-out"
                 >
@@ -63,7 +63,7 @@ export const Hero = () => {
                       <path d="M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z" />
                     </svg>
                   </span>
-                  info@nhat-tam.vn
+                  info@camninh.vn
                 </a>
               </li>
             </ul>
