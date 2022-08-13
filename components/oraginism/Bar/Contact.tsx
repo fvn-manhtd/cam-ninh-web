@@ -67,7 +67,8 @@ export const Contact = () => {
             <div className="px-4 w-full lg:w-5/12 xl:w-5/12">
             
               <div className="google-map-code">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3924.8318443399085!2d107.07206235040987!3d10.355326992571815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31756f959c9d7c8d%3A0x8a4c5db3dbd80ba4!2zMTczLCAyNSBMw6ogTOG7o2ksIFBoxrDhu51uZyA0LCBUaMOgbmggcGjhu5EgVsWpbmcgVOG6p3UsIELDoCBS4buLYSAtIFbFqW5nIFTDoHUsIFZpZXRuYW0!5e0!3m2!1sen!2s!4v1651887560084!5m2!1sen!2s" width="100%" height="450" style={{border:0}} aria-hidden="false" ></iframe>
+          
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3924.6532785695067!2d107.08915990000001!3d10.369582999999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31756fce28cc66a5%3A0xeaa8ae59bbcf205a!2zNTUgTMO9IFRow6FpIFTDtG5nLCBQaMaw4budbmcgOSwgVGjDoG5oIHBo4buRIFbFqW5nIFThuqd1LCBCw6AgUuG7i2EgLSBWxaluZyBUw6B1LCBWaWV0bmFt!5e0!3m2!1sen!2sjp!4v1660388982265!5m2!1sen!2sjp" width="100%" height="450" style={{border:0}} loading="lazy"></iframe>
         </div>
             </div>
             
