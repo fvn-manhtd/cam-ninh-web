@@ -37,7 +37,7 @@ export const Contact = () => {
                     <div>
                       <h5 className="text-lg font-semibold mb-6">Địa chỉ</h5>
                       <p className="text-base text-body-color">
-                        173/25 Đường Lê Lợi, Phường Thắng Nhì, Thành Phố Vũng Tàu
+                        55 Lý Thái Tông, Phường Thắng Nhì, Thành Phố Vũng Tàu
                       </p>
                     </div>
                   </div>
@@ -57,7 +57,7 @@ export const Contact = () => {
                     <div>
                       <h5 className="text-lg font-semibold mb-6">Email</h5>
                       <p className="text-base text-body-color">info@camninh.vn</p>
-                      <p className="text-base text-body-color">84-38-9684284</p>
+                      <p className="text-base text-body-color">84-38-3855961</p>
                       
                     </div>
                   </div>
