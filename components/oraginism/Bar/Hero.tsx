@@ -43,12 +43,12 @@ export const Hero = () => {
                       <path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z" />
                     </svg>
                   </span>
-                  84-38-3855961
+                  84-254-3855961
                 </a>
               </li>
               <li>
                 <a
-                  href="mailto:info@camninh.vn"
+                  href="mailto:info@camninh.com"
                   target="_blank"
                   className="text-base font-medium text-orange-500 border border-orange-500 rounded-lg py-4 px-6 sm:px-10 flex items-center hover:opacity-70 transition duration-300 ease-in-out"
                 >
@@ -63,7 +63,7 @@ export const Hero = () => {
                       <path d="M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z" />
                     </svg>
                   </span>
-                  info@camninh.vn
+                  info@camninh.com
                 </a>
               </li>
             </ul>
