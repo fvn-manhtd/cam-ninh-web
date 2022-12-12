@@ -80,6 +80,32 @@ export const Footer = () => {
             <div className="w-full mb-10">
               <h4 className="text-white text-lg font-semibold mb-9">Partners</h4>
               <ul className="flex flex-wrap items-center">
+              <li className="w-1/2">
+                <a href="https://longsonpetro.com/home/" target="_blank">
+                    <img
+                      src="./assets/images/brands/longsongpetro.png"
+                      alt="Cam Ninh"
+                    />
+                    </a>
+                  
+                </li>
+                <li className="w-1/2">
+                <a href="https://diccons.vn" target="_blank">
+                    <img
+                      src="./assets/images/brands/diccons.jpeg"
+                      alt="Cam Ninh"
+                    />
+                  </a>
+                </li>
+                <li className="w-1/2">
+                <a href="http://tanphuocthinh.com.vn" target="_blank">
+                    <img
+                      src="./assets/images/brands/tanphuocthing.png"
+                      alt="Cam Ninh"
+                    />
+                  </a>
+                </li>
+
                 <li className="w-1/2">
                     <img
                       src="./assets/images/brands/brand1.png"
