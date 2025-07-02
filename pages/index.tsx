@@ -2,6 +2,8 @@ import { Contact, Footer, Header, Hero, Service } from "components/oraginism";
 import type { NextPage } from "next";
 import Head from "next/head";
 
+// Update comment 
+
 const Home: NextPage = () => {
   return (
     <div className="mx-auto">
