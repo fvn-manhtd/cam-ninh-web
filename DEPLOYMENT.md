@@ -81,3 +81,6 @@ Make sure your domain `camninh.com` has these DNS records:
 3. Once deployed, visit `https://camninh.com` to see your site live
 
 The site should be automatically deployed and updated whenever you push changes to the main branch! 
+
+
+Fix1
