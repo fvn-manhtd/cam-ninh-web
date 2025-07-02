@@ -9,7 +9,7 @@ const Home: NextPage = () => {
         <title> Công ty TNHH DỊCH VỤ KỸ THUẬT CAM NINH</title>
         <meta
           name="description"
-          content="Công ty TNHH DỊCH VỤ KỸ THUẬT CAM NINH"
+          content="Công ty CAM NINH"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
