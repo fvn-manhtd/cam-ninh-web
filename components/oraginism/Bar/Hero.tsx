@@ -50,6 +50,7 @@ export const Hero = () => {
                 <a
                   href="mailto:info@camninh.com"
                   target="_blank"
+                  rel="noreferrer"
                   className="text-base font-medium text-orange-500 border border-orange-500 rounded-lg py-4 px-6 sm:px-10 flex items-center hover:opacity-70 transition duration-300 ease-in-out"
                 >
                   <span className="pr-2">

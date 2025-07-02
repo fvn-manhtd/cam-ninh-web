@@ -1,5 +1,3 @@
-import Link from "next/link";
-import Image from "next/image";
 import { LogoWhite } from "../Logo";
 
 export const Footer = () => {
@@ -81,7 +79,7 @@ export const Footer = () => {
               <h4 className="text-white text-lg font-semibold mb-9">Partners</h4>
               <ul className="flex flex-wrap items-center">
               <li className="w-1/2">
-                <a href="https://longsonpetro.com/home/" target="_blank">
+                <a href="https://longsonpetro.com/home/" target="_blank" rel="noreferrer">
                     <img
                       src="./assets/images/brands/longsongpetro.png"
                       alt="Cam Ninh"
@@ -90,7 +88,7 @@ export const Footer = () => {
                   
                 </li>
                 <li className="w-1/2">
-                <a href="https://diccons.vn" target="_blank">
+                <a href="https://diccons.vn" target="_blank" rel="noreferrer">
                     <img
                       src="./assets/images/brands/diccons.jpeg"
                       alt="Cam Ninh"
@@ -98,7 +96,7 @@ export const Footer = () => {
                   </a>
                 </li>
                 <li className="w-1/2">
-                <a href="http://tanphuocthinh.com.vn" target="_blank">
+                <a href="http://tanphuocthinh.com.vn" target="_blank" rel="noreferrer">
                     <img
                       src="./assets/images/brands/tanphuocthing.png"
                       alt="Cam Ninh"
