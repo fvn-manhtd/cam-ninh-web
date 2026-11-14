@@ -34,3 +34,7 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
+# company profile source and raw image extraction (only curated WebPs are committed)
+*.pdf
+/.pdf-extract/
