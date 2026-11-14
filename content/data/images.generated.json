@@ -1,0 +1,310 @@
+{
+  "/images/brand/logo.webp": {
+    "height": 248,
+    "width": 800
+  },
+  "/images/certificates/axis-authorised-partner.webp": {
+    "height": 559,
+    "width": 394
+  },
+  "/images/certificates/axis-certified-professional.webp": {
+    "height": 1069,
+    "width": 766
+  },
+  "/images/certificates/axis-training-analytics.webp": {
+    "height": 695,
+    "width": 470
+  },
+  "/images/certificates/axis-training-camera-station.webp": {
+    "height": 741,
+    "width": 503
+  },
+  "/images/certificates/commscope-nd3802.webp": {
+    "height": 660,
+    "width": 933
+  },
+  "/images/certificates/commscope-nd3803.webp": {
+    "height": 658,
+    "width": 931
+  },
+  "/images/certificates/dahua-dhcp-smb.webp": {
+    "height": 545,
+    "width": 793
+  },
+  "/images/certificates/hikvision-cgsp-cctv.webp": {
+    "height": 513,
+    "width": 796
+  },
+  "/images/clients/diccons.webp": {
+    "height": 292,
+    "width": 316
+  },
+  "/images/clients/halliburton.webp": {
+    "height": 292,
+    "width": 316
+  },
+  "/images/clients/lsp.webp": {
+    "height": 292,
+    "width": 316
+  },
+  "/images/clients/phu-my-3.webp": {
+    "height": 292,
+    "width": 316
+  },
+  "/images/clients/ptsc.webp": {
+    "height": 292,
+    "width": 316
+  },
+  "/images/clients/pvfcco.webp": {
+    "height": 292,
+    "width": 316
+  },
+  "/images/clients/schlumberger.webp": {
+    "height": 292,
+    "width": 316
+  },
+  "/images/clients/tan-phuoc-thinh.webp": {
+    "height": 292,
+    "width": 316
+  },
+  "/images/clients/ton-hoa-sen.webp": {
+    "height": 292,
+    "width": 316
+  },
+  "/images/clients/vard.webp": {
+    "height": 292,
+    "width": 316
+  },
+  "/images/clients/vietsovpetro.webp": {
+    "height": 292,
+    "width": 316
+  },
+  "/images/clients/vina-logistics.webp": {
+    "height": 292,
+    "width": 316
+  },
+  "/images/hero/cctv-jetty-install.webp": {
+    "height": 575,
+    "width": 700
+  },
+  "/images/hero/control-room.webp": {
+    "height": 825,
+    "width": 1100
+  },
+  "/images/hero/sat-scs-desk.webp": {
+    "height": 825,
+    "width": 1100
+  },
+  "/images/hero/team-switchgear.webp": {
+    "height": 825,
+    "width": 1100
+  },
+  "/images/partners/axis.webp": {
+    "height": 292,
+    "width": 316
+  },
+  "/images/partners/bosch.webp": {
+    "height": 292,
+    "width": 316
+  },
+  "/images/partners/cisco.webp": {
+    "height": 292,
+    "width": 316
+  },
+  "/images/partners/commscope.webp": {
+    "height": 292,
+    "width": 316
+  },
+  "/images/partners/honeywell.webp": {
+    "height": 292,
+    "width": 316
+  },
+  "/images/partners/idemia.webp": {
+    "height": 292,
+    "width": 316
+  },
+  "/images/partners/loxone.webp": {
+    "height": 292,
+    "width": 316
+  },
+  "/images/partners/schneider-electric.webp": {
+    "height": 292,
+    "width": 316
+  },
+  "/images/projects/cabling-1.webp": {
+    "height": 805,
+    "width": 990
+  },
+  "/images/projects/cabling-2.webp": {
+    "height": 575,
+    "width": 699
+  },
+  "/images/projects/cctv-material-import-1.webp": {
+    "height": 414,
+    "width": 672
+  },
+  "/images/projects/cctv-material-import-2.webp": {
+    "height": 575,
+    "width": 700
+  },
+  "/images/projects/data-center.webp": {
+    "height": 464,
+    "width": 690
+  },
+  "/images/projects/dc-ups-system-sat.webp": {
+    "height": 498,
+    "width": 665
+  },
+  "/images/projects/energize-socket-system.webp": {
+    "height": 1280,
+    "width": 960
+  },
+  "/images/projects/factory-ups-system-sat.webp": {
+    "height": 1069,
+    "width": 1280
+  },
+  "/images/projects/fire-alarm-system-sat.webp": {
+    "height": 960,
+    "width": 1280
+  },
+  "/images/projects/fire-alarm-system.webp": {
+    "height": 1009,
+    "width": 685
+  },
+  "/images/projects/hvac-system-sat.webp": {
+    "height": 873,
+    "width": 1123
+  },
+  "/images/projects/jb-installation.webp": {
+    "height": 652,
+    "width": 977
+  },
+  "/images/projects/lv-support-semco-ups.webp": {
+    "height": 960,
+    "width": 1280
+  },
+  "/images/projects/network.webp": {
+    "height": 651,
+    "width": 973
+  },
+  "/images/projects/remote-transmitter-installing.webp": {
+    "height": 649,
+    "width": 866
+  },
+  "/images/projects/sat-acms-cabinet.webp": {
+    "height": 1280,
+    "width": 960
+  },
+  "/images/projects/sat-lighting-system.webp": {
+    "height": 960,
+    "width": 1280
+  },
+  "/images/projects/sat-scs-system-1.webp": {
+    "height": 1280,
+    "width": 960
+  },
+  "/images/projects/sat-scs-system-2.webp": {
+    "height": 960,
+    "width": 1280
+  },
+  "/images/projects/sss-system-sat.webp": {
+    "height": 873,
+    "width": 601
+  },
+  "/images/projects/telecommunication-cabinet.webp": {
+    "height": 268,
+    "width": 399
+  },
+  "/images/projects/video-conference.webp": {
+    "height": 464,
+    "width": 690
+  },
+  "/images/projects/wifi-outdoor.webp": {
+    "height": 633,
+    "width": 484
+  },
+  "/images/services/datacenter-cooling.webp": {
+    "height": 448,
+    "width": 675
+  },
+  "/images/services/datacenter-environment-management.webp": {
+    "height": 579,
+    "width": 674
+  },
+  "/images/services/datacenter-network-infrastructure.webp": {
+    "height": 451,
+    "width": 673
+  },
+  "/images/services/datacenter-rack-cabinet.webp": {
+    "height": 268,
+    "width": 493
+  },
+  "/images/services/intercom-intercom-devices.webp": {
+    "height": 504,
+    "width": 671
+  },
+  "/images/services/intercom-touch-panels.webp": {
+    "height": 824,
+    "width": 773
+  },
+  "/images/services/precom-gis-system.webp": {
+    "height": 346,
+    "width": 462
+  },
+  "/images/services/precom-hv-mv-cable.webp": {
+    "height": 346,
+    "width": 527
+  },
+  "/images/services/precom-hvac.webp": {
+    "height": 285,
+    "width": 462
+  },
+  "/images/services/precom-lighting-system.webp": {
+    "height": 1200,
+    "width": 900
+  },
+  "/images/services/precom-lv-switchgear.webp": {
+    "height": 355,
+    "width": 418
+  },
+  "/images/services/precom-main-transformer.webp": {
+    "height": 346,
+    "width": 462
+  },
+  "/images/services/precom-ups-dc-system.webp": {
+    "height": 482,
+    "width": 642
+  },
+  "/images/services/smarthome-smart-control.webp": {
+    "height": 824,
+    "width": 774
+  },
+  "/images/services/smarthome-smart-house.webp": {
+    "height": 294,
+    "width": 440
+  },
+  "/images/services/solar-building.webp": {
+    "height": 480,
+    "width": 737
+  },
+  "/images/services/solar-coffee-pickleball.webp": {
+    "height": 539,
+    "width": 900
+  },
+  "/images/services/solar-factory-workshop.webp": {
+    "height": 599,
+    "width": 900
+  },
+  "/images/services/sss-access-control.webp": {
+    "height": 449,
+    "width": 488
+  },
+  "/images/services/sss-cctv.webp": {
+    "height": 824,
+    "width": 773
+  },
+  "/images/services/sss-fire-alarm.webp": {
+    "height": 360,
+    "width": 720
+  }
+}
